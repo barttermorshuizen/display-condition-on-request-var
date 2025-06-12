@@ -3,8 +3,8 @@
  * Plugin Name: Display Condition On Request Var
  * Description: Adds conditional display capabilities to Elementor based on request variables
  * Version:     1.0.0
- * Author:      Your Name
- * Author URI:  https://yourwebsite.com
+ * Author:      More Awesome
+ * Author URI:  https://moreawesome.co
  * Text Domain: display-condition-on-request-var
  */
 
